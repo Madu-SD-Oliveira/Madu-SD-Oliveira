@@ -24,7 +24,8 @@ Beyond the IDE, I am deeply immersed in the visual and sonic arts:
 ### 🌌 Tech Stack
 `Kotlin` • `Jetpack Compose` • `Material Design` • `Figma` • `Git`
 
-
-
 [Let's connect](www.linkedin.com/in/devmaduoliveira) 
 
+
+
+![Mood](gif.gif)
