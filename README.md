@@ -26,6 +26,5 @@ Beyond the IDE, I am deeply immersed in the visual and sonic arts:
 
 
 
-[Let's connect](www.linkedin.com/in/devmaduoliveira) <img width="400" height="400" alt="boxicons-MVE2xIfRWUw-unsplash" src="https://github.com/user-attachments/assets/ef657112-f9cc-4d69-8f48-b0231d80ad99" />
-
+[Let's connect](www.linkedin.com/in/devmaduoliveira) 
 
